@@ -4,11 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://organikseo.net/wp-content/uploads/2020/10/giphy.gif">
 
 
-- 🌱 I’m currently learning **flutter**
+
+- 📱 I’m currently learning **flutter**
 
 - 💬 Ask me about **mobile development**
 
-- 📫 How to reach me **tokluemre00@gmail.com**
+- 🤔 How to reach me **tokluemre00@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
