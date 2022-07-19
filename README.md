@@ -1,6 +1,6 @@
 ### Hi there 👋, Emre Toklu
 #### Computer Engineering student
-![Computer Engineering student](https://organikseo.net/wp-content/uploads/2020/10/giphy.gif | width=300)
+![Computer Engineering student](https://organikseo.net/wp-content/uploads/2020/10/giphy.gif)
 
 I'm Emre from Turkey. I really enjoy learning languages and frameworks like Flutter, Python and Java. 
 
