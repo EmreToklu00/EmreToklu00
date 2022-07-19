@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre Toklu</h1>
-<h3 align="center">I'm a computer engineering student</h3>
+<h3 align="center">I'm a computer engineering student.I really enjoy learning languages and frameworks like Flutter, Python and Java. </h3>
 
 <img align="right" alt="coding" width="400" src="https://organikseo.net/wp-content/uploads/2020/10/giphy.gif">
 
-<h1 align="center"></h1>
 
 - 🌱 I’m currently learning **flutter**
 
