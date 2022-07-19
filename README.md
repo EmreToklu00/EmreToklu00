@@ -1,6 +1,6 @@
 ### Hi there 👋, Emre Toklu
-#### Software Development
-![Software Development](https://thumbs.dreamstime.com/b/random-rotated-white-planes-background-wallpaper-banner-copy-space-frame-filling-geometry-pattern-d-illustration-245575800.jpg)
+#### Computer Engineering student
+![Computer Engineering student](https://organikseo.net/wp-content/uploads/2020/10/giphy.gif)
 
 I'm Emre from Turkey. I really enjoy learning languages and frameworks like Flutter, Python and Java. 
 
