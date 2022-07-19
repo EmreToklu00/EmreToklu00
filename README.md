@@ -5,11 +5,11 @@
 
 
 
-- 📱 I’m currently learning **flutter**
+- 👨‍💻 I’m currently learning **flutter**
 
 - 💬 Ask me about **mobile development**
 
-- 🤔 How to reach me **tokluemre00@gmail.com**
+- 📫 How to reach me **tokluemre00@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
