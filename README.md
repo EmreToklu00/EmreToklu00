@@ -7,8 +7,6 @@
 
 - 👨‍💻 I’m currently working on **flutter**
 
-- 🌱 I’m currently learning **dotnet**
-
 - 💬 Ask me about **mobile development**
 
 - 📫 How to reach me **tokluemre00@gmail.com**
