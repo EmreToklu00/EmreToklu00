@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 I’m currently working on **flutter**
+- 👨‍💻 I’m currently working on **.Net**
 
 - 💬 Ask me about **mobile development**
 
