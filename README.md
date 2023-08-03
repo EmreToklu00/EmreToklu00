@@ -32,10 +32,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/emre-toklu-572631229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-toklu-572631229" height="30" width="40" /></a>
   
-<h1></h1>
-
-<h3>You should look at this repository:</h3>
-  
-<div width="100%" align="right"><a href="https://github.com/emretoklu00/flutter_architecture_and_mvvm_example" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emretoklu00&repo=flutter_architecture_and_mvvm_example&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
  
